@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+scikit-learn
+docx2txt
+PyPDF2
